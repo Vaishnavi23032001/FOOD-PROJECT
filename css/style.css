@@ -326,7 +326,7 @@ footer{
     display: flex;
     flex-direction: column;
     padding: 3px 20px;
-    height: 580px;
+    height: 490px;
     justify-content: center;
     align-items: center;
 }
